@@ -8,11 +8,12 @@ class XnetSpider(scrapy.Spider):
     start_urls = ['https://www.xnet.lv/lv/elektronika/portativie-datori/portativie-datori/']
 
     def parse(self, response):
-        for product in response.xpath('//div[@class="specs js-item-specs"]'):
+        for product in response.xpath("//a[@class='thumbnail']"):
             yield{
-                'title': product.xpath(".//h3[@class='js-item-title']/text()").get(),
+                'title': product.xpath(".//div[@class='specs-wrap']//div[@class='specs js-item-specs']/h3[@class='js-item-title']/text()").get(),
+                'price': product.xpath(".//div[@class='specs-wrap']//div[@class='specs js-item-specs']/div[@class=' price']/text()").get()
             }
-            print(product.xpath(".//div[@class='price']/text()").get())
+            print(product.xpath(".//div[@class='specs-wrap']//div[@class='specs js-item-specs']/h3[@class='js-item-title']/text()").get())
     # def parse(self, response):
     #     for product in response.xpath("//div[@class='td-block-span6']"):
     #         yield {
