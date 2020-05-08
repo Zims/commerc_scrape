@@ -20,12 +20,12 @@
     "price": "\n                1399 €\n\n            "
   },
   {
-    "title": "\n                MSI Gaming GF63 9SC-833NL Thin Melns Portatīvais dators 39,6 cm (15.6\") 1920 x 1080 pikseļi 9th gen Intel® Core™...\n            ",
-    "price": "\n                1029 €\n\n            "
-  },
-  {
     "title": "\n                Prestigio Smartbook 141 C3 14,1\" 2GB/64GB, silver\n            ",
     "price": "\n                219 €\n\n            "
+  },
+  {
+    "title": "\n                MSI Gaming GF63 9SC-833NL Thin Melns Portatīvais dators 39,6 cm (15.6\") 1920 x 1080 pikseļi 9th gen Intel® Core™...\n            ",
+    "price": "\n                1029 €\n\n            "
   },
   {
     "title": "\n                HP Omen 17.3\", HDD 1TB + SSD 512GB, RAM 32GB, Intel i9,  GeForce RTXTM 2080, Windows 10 Home (6ZJ37EA#ABU)\n            ",
@@ -36,10 +36,6 @@
     "price": "\n                259 €\n\n            "
   },
   {
-    "title": "\n                Lenovo IdeaPad S145 Melns Portatīvais dators 39,6 cm (15.6\") 1920 x 1080 pikseļi Intel® Celeron® N 4 GB DDR4-SDRAM...\n            ",
-    "price": "\n                284 €\n\n            "
-  },
-  {
     "title": "\n                Techbite ARC 11.6/N4000/4GB/64GB/INTELUHD/W10 Pro black\n            ",
     "price": "\n                239 €\n\n            "
   },
@@ -48,12 +44,20 @@
     "price": "\n                429 €\n\n            "
   },
   {
+    "title": "\n                ASUS VivoBook Series X512DA-BQ882T CPU 3500U 2100 MHz 15.6\n            ",
+    "price": "\n                659 €\n\n            "
+  },
+  {
     "title": "\n                Lenovo V330 Pelēks Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi AMD Ryzen 5 8 GB DDR4-SDRAM 256 GB SSD...\n            ",
     "price": "\n                579 €\n\n            "
   },
   {
-    "title": "\n                ASUS VivoBook Series X512DA-BQ882T CPU 3500U 2100 MHz 15.6\n            ",
-    "price": "\n                659 €\n\n            "
+    "title": "\n                Lenovo Legion Y540 Melns Portatīvais dators 39,6 cm (15.6\") 1920 x 1080 pikseļi 9th gen Intel® Core™ i7 8 GB DDR4-SDRAM...\n            ",
+    "price": "\n                1081 €\n\n            "
+  },
+  {
+    "title": "\n                Acer Nitro 5 AN515-43-R0DV Black, 15.6\",  512GB SSD, 8GB RAM, AMD Ryzen 7 3750H, AMD Radeon RX 560X, ENG/RUS, Win...\n            ",
+    "price": "\n                959 €\n\n            "
   },
   {
     "title": "\n                Acer Predator Helios 300 PH315-52-5983 Black, 15.6\", 256GB SSD, 1TB HDD, 16GB RAM, Intel i5-9300H, NVIDIA GeForce...\n            ",
@@ -64,6 +68,10 @@
     "price": "\n                799 €\n\n            "
   },
   {
+    "title": "\n                Portatīvais dators Prestigio Smartbook 133S, tumši brūns\n            ",
+    "price": "\n                259 €\n\n            "
+  },
+  {
     "title": "\n                LENOVO IdeaPad S145-15IGM CPU N5000 1100 MHz 15.6\n            ",
     "price": "\n                341 €\n\n            "
   },
@@ -72,16 +80,12 @@
     "price": "\n                658 €\n\n            "
   },
   {
-    "title": "\n                DELL Vostro 3491 CPU i5-1035G1 1000 MHz 14\n            ",
-    "price": "\n                706 €\n\n            "
+    "title": "\n                Lenovo ThinkBook 15 Pelēks Portatīvais dators 39,6 cm (15.6\") 1920 x 1080 pikseļi 10th gen Intel® Core™ i7 16 GB...\n            ",
+    "price": "\n                1029 €\n\n            "
   },
   {
     "title": "\n                DELL XPS 13 7390 Sudrabs, Balts Portatīvais dators 33,8 cm (13.3\") 1920 x 1080 pikseļi 10th gen Intel® Core™ i5...\n            ",
     "price": "\n                1289 €\n\n            "
-  },
-  {
-    "title": "\n                Lenovo Legion Y540 Melns Portatīvais dators 39,6 cm (15.6\") 1920 x 1080 pikseļi 9th gen Intel® Core™ i7 8 GB DDR4-SDRAM...\n            ",
-    "price": "\n                1081 €\n\n            "
   },
   {
     "title": "\n                Portatīvais dators HP Spectre x360 Convertible 13-aw0900no, 8UL97EA#UUW\n            ",
@@ -89,6 +93,10 @@
   },
   {
     "title": "\n                DELL XPS 15 7590 Melns, Platīns, Sudrabs Portatīvais dators 39,6 cm (15.6\") 3840 x 2160 pikseļi 9th gen Intel®...\n            ",
+    "price": "\n                2709 €\n\n            "
+  },
+  {
+    "title": "\n                Apple MacBook Pro Pelēks Portatīvais dators 40,6 cm (16\") 3072 x 1920 pikseļi 9th gen Intel® Core™ i7 16 GB DDR4-SDRAM...\n            ",
     "price": "\n                2709 €\n\n            "
   },
   {
@@ -100,24 +108,12 @@
     "price": "\n                1589 €\n\n            "
   },
   {
-    "title": "\n                Acer Nitro 5 AN515-43-R0DV Black, 15.6\",  512GB SSD, 8GB RAM, AMD Ryzen 7 3750H, AMD Radeon RX 560X, ENG/RUS, Win...\n            ",
-    "price": "\n                959 €\n\n            "
-  },
-  {
     "title": "\n                Dell G3 15 3590 Black, 15.6\", 256GB SSD, 1TB HDD, 8GB RAM, Intel i5-9300H, NVIDIA GeForce GTX 1050, ENG, Win 10...\n            ",
     "price": "\n                809 €\n\n            "
   },
   {
     "title": "\n                Asus ZenBook Series UX334FL-A4021R, 13.3\", 1TB SSD, 16GB RAM, Intel i7-8565U, NVIDIA GeForce MX250, ENG, Win 10...\n            ",
     "price": "\n                1493 €\n\n            "
-  },
-  {
-    "title": "\n                Asus ZenBook UX433FLC-A5337T Silver, 14\", 1TB SSD, 16GB RAM, Intel i7-10510U, Intel UHD 620, NVIDIA GeForce MX250,...\n            ",
-    "price": "\n                1154 €\n\n            "
-  },
-  {
-    "title": "\n                DELL Latitude 3500 CPU i3-8145U 2100 MHz 15.6\n            ",
-    "price": "\n                716 €\n\n            "
   },
   {
     "title": "\n                DELL Latitude 3500 Melns Portatīvais dators 39,6 cm (15.6\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i3 4 GB DDR4-SDRAM...\n            ",
@@ -128,16 +124,16 @@
     "price": "\n                829 €\n\n            "
   },
   {
+    "title": "\n                Lenovo V130-15IKB, 15.6\", 128GB SSD, 4GB RAM, Intel Pentium, Intel HD 610, Win 10 Home, Nordic klaviatūra (81HN00QVMX)\n            ",
+    "price": "\n                329 €\n\n            "
+  },
+  {
     "title": "\n                Dell Vostro 3578, 15.6\", 256GB SSD, 8GB RAM, Intel i7-8550U, AMD Radeon 520, ENG, Win 10 + dāvanā Natec Impala...\n            ",
     "price": "\n                779 €\n\n            "
   },
   {
     "title": "\n                Acer Nitro 5 AN515-54 Black, 15.6\", 256GB SSD, 8GB RAM, Intel i5-9300H, NVIDIA GeForce 1650, ENG, Win 10 Home (NH.Q59EL.004)\n            ",
     "price": "\n                1089 €\n\n            "
-  },
-  {
-    "title": "\n                Portatīvais dators Prestigio Smartbook 133S, tumši brūns\n            ",
-    "price": "\n                259 €\n\n            "
   },
   {
     "title": "\n                Acer Nitro 5 AN515-54 Black, 15.6\", 256GB SSD, 1TB HDD, 8GB RAM, Intel i7-9750H, NVIDIA GeForce GTX 1650, ENG,...\n            ",
@@ -178,5 +174,1441 @@
   {
     "title": "\n                DELL Precision 3540 Melns Mobila darbstacija 39,6 cm (15.6\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i7 8 GB DDR4-SDRAM...\n            ",
     "price": "\n                1219 €\n\n            "
+  },
+  {
+    "title": "\n                Asus FX505G Gaming 15.6/i5-9300H/BGA /8GB/SSD 512GB/FHD WV/W10 64BIT black(FX505GT-BI5N7)\n            ",
+    "price": "\n                869 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo Ideapad S145-15IIL 15.6/i5-1035G4/4GB/SSD 128GB/FHD TN/W10 Home grey (81W8003BRM)\n            ",
+    "price": "\n                559 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo Ideapad L340-15IRH Gaming 15.6/i5-9300H/8GB/SSD 256GB/FHD IPS/W10 Home black (81LK00B2PB)\n            ",
+    "price": "\n                769 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Vostro 3490 CPU i5-10210U 1600 MHz 14\n            ",
+    "price": "\n                648 €\n\n            "
+  },
+  {
+    "title": "\n                HP EliteBook 830 G6 Sudrabs Portatīvais dators 33,8 cm (13.3\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i5 8 GB...\n            ",
+    "price": "\n                1209 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Precision 3541 Melns Mobila darbstacija 39,6 cm (15.6\") 1920 x 1080 pikseļi 9th gen Intel® Core™ i5 8 GB DDR4-SDRAM...\n            ",
+    "price": "\n                1214 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Precision 3540 Melns Mobila darbstacija 39,6 cm (15.6\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i7 8 GB DDR4-SDRAM...\n            ",
+    "price": "\n                1313 €\n\n            "
+  },
+  {
+    "title": "\n                Apple MacBook Pro Pelēks Portatīvais dators 40,6 cm (16\") 3072 x 1920 pikseļi 9th gen Intel® Core™ i9 16 GB DDR4-SDRAM...\n            ",
+    "price": "\n                3329 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad X1 Yoga Pelēks Hibrīds (divi vienā) 35,6 cm (14\") 1920 x 1080 pikseļi Skārienjūtīgais ekrāns 8th...\n            ",
+    "price": "\n                3079 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkBook 14 Pelēks Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi 10th gen Intel® Core™ i7 16 GB...\n            ",
+    "price": "\n                1039 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad X280 Melns Portatīvais dators 31,8 cm (12.5\") 1920 x 1080 pikseļi Skārienjūtīgais ekrāns 8th gen...\n            ",
+    "price": "\n                1139 €\n\n            "
+  },
+  {
+    "title": "\n                Apple MacBook Pro Pelēks Portatīvais dators 40,6 cm (16\") 3072 x 1920 pikseļi 9th gen Intel® Core™ i7 16 GB DDR4-SDRAM...\n            ",
+    "price": "\n                2829 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 7400 CPU i5-8365U 1700 MHz 14\n            ",
+    "price": "\n                1297 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 7400 Melns Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i5 8 GB DDR4-SDRAM...\n            ",
+    "price": "\n                1297 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad T495s Melns Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi AMD Ryzen 7 PRO 16 GB DDR4-SDRAM...\n            ",
+    "price": "\n                1709 €\n\n            "
+  },
+  {
+    "title": "\n                DELL XPS 15 7590 Melns, Platīns, Sudrabs Portatīvais dators 39,6 cm (15.6\") 1920 x 1080 pikseļi 9th gen Intel®...\n            ",
+    "price": "\n                1589 €\n\n            "
+  },
+  {
+    "title": "\n                HP EliteBook 745 G6 Sudrabs Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi Skārienjūtīgais ekrāns AMD Ryzen...\n            ",
+    "price": "\n                1469 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo IdeaPad L340 Gaming Melns Portatīvais dators 39,6 cm (15.6\") 1920 x 1080 pikseļi 9th gen Intel® Core™ i5...\n            ",
+    "price": "\n                764 €\n\n            "
+  },
+  {
+    "title": "\n                HP EliteBook x360 1040 G6 Sudrabs Hibrīds (divi vienā) 35,6 cm (14\") 1920 x 1080 pikseļi Skārienjūtīgais ekrāns...\n            ",
+    "price": "\n                1849 €\n\n            "
+  },
+  {
+    "title": "\n                Portatīvais dators Apple MacBook Pro (2019) / 16\", RUS klaviatūra, MVVJ2RU/A\n            ",
+    "price": "\n                2829 €\n\n            "
+  },
+  {
+    "title": "\n                DELL XPS 13 7390 Melns, Sudrabs Hibrīds (divi vienā) 34 cm (13.4\") 1920 x 1200 pikseļi Skārienjūtīgais ekrāns 10th...\n            ",
+    "price": "\n                1609 €\n\n            "
+  },
+  {
+    "title": "\n                DELL XPS 13 7390 Melns, Sudrabs Portatīvais dators 33,8 cm (13.3\") 3840 x 2160 pikseļi Skārienjūtīgais ekrāns 10th...\n            ",
+    "price": "\n                1729 €\n\n            "
+  },
+  {
+    "title": "\n                HP EliteBook 735 G6 Sudrabs Portatīvais dators 33,8 cm (13.3\") 1920 x 1080 pikseļi AMD Ryzen 3 8 GB DDR4-SDRAM...\n            ",
+    "price": "\n                1059 €\n\n            "
+  },
+  {
+    "title": "\n                HP Elite Dragonfly Melns Hibrīds (divi vienā) 33,8 cm (13.3\") 1920 x 1080 pikseļi Skārienjūtīgais ekrāns 8th gen...\n            ",
+    "price": "\n                2329 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad X395 Melns Portatīvais dators 33,8 cm (13.3\") 1920 x 1080 pikseļi AMD Ryzen 5 PRO 16 GB DDR4-SDRAM...\n            ",
+    "price": "\n                1309 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 7300 CPU i7-8665U 1900 MHz 13.3\n            ",
+    "price": "\n                1657 €\n\n            "
+  },
+  {
+    "title": "\n                ASUS ZenBook Series UX581GV-H2004R CPU i7-9750H 2600 MHz 15.6\n            ",
+    "price": "\n                2545 €\n\n            "
+  },
+  {
+    "title": "\n                DELL XPS 13 7390 Melns, Sudrabs Hibrīds (divi vienā) 34 cm (13.4\") 3840 x 2400 pikseļi Skārienjūtīgais ekrāns 10th...\n            ",
+    "price": "\n                2189 €\n\n            "
+  },
+  {
+    "title": "\n                DELL XPS 15 7590 Melns, Platīns, Sudrabs Portatīvais dators 39,6 cm (15.6\") 3840 x 2160 pikseļi 9th gen Intel®...\n            ",
+    "price": "\n                1929 €\n\n            "
+  },
+  {
+    "title": "\n                TOSHIBA Satellite Pro L50-G-179 CPU i7-10510U 1800 MHz 15.6\n            ",
+    "price": "\n                987 €\n\n            "
+  },
+  {
+    "title": "\n                HP Elite Dragonfly Zils Hibrīds (divi vienā) 33,8 cm (13.3\") 1920 x 1080 pikseļi Skārienjūtīgais ekrāns 8th gen...\n            ",
+    "price": "\n                2819 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad E14 Melns Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi 10th gen Intel® Core™ i7 16 GB DDR4-SDRAM...\n            ",
+    "price": "\n                1179 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 7300 Alumīnijs, Melns Portatīvais dators 33,8 cm (13.3\") 1920 x 1080 pikseļi 8th gen Intel® Core™...\n            ",
+    "price": "\n                1801 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 7400 CPU i7-8665U 1900 MHz 14\n            ",
+    "price": "\n                1647 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad E15 Melns Portatīvais dators 39,6 cm (15.6\") 1920 x 1080 pikseļi 10th gen Intel® Core™ i5 8 GB...\n            ",
+    "price": "\n                859 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkBook 14 Pelēks Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi 10th gen Intel® Core™ i5 8 GB DDR4-SDRAM...\n            ",
+    "price": "\n                829 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad E14 Melns Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi 10th gen Intel® Core™ i5 8 GB DDR4-SDRAM...\n            ",
+    "price": "\n                909 €\n\n            "
+  },
+  {
+    "title": "\n                HP ZBook 15v G5 Sudrabs Mobila darbstacija 39,6 cm (15.6\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i5 8 GB DDR4-SDRAM...\n            ",
+    "price": "\n                1289 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad X1 Carbon Melns Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i7 16...\n            ",
+    "price": "\n                2729 €\n\n            "
+  },
+  {
+    "title": "\n                HP Elite Dragonfly Zils Hibrīds (divi vienā) 33,8 cm (13.3\") 1920 x 1080 pikseļi Skārienjūtīgais ekrāns 8th gen...\n            ",
+    "price": "\n                2549 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Vostro 5490 Melns, Pelēks Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi 10th gen Intel® Core™ i7 8...\n            ",
+    "price": "\n                1019 €\n\n            "
+  },
+  {
+    "title": "\n                TOSHIBA Satellite Pro L50-G-14L CPU i5-10210U 1600 MHz 15.6\n            ",
+    "price": "\n                629 €\n\n            "
+  },
+  {
+    "title": "\n                HP Elite Dragonfly Melns Hibrīds (divi vienā) 33,8 cm (13.3\") 1920 x 1080 pikseļi Skārienjūtīgais ekrāns 8th gen...\n            ",
+    "price": "\n                2329 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad T490s Melns Portatīvais dators 35,6 cm (14\") 2560 x 1440 pikseļi 8th gen Intel® Core™ i7 16 GB...\n            ",
+    "price": "\n                2309 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Vostro 5590 Melns, Pelēks Portatīvais dators 39,6 cm (15.6\") 1920 x 1080 pikseļi 10th gen Intel® Core™ i7...\n            ",
+    "price": "\n                1019 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 5400 Melns Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i7 16 GB DDR4-SDRAM...\n            ",
+    "price": "\n                1419 €\n\n            "
+  },
+  {
+    "title": "\n                TOSHIBA Portege A30-E-16D CPU i5-8250U 1600 MHz 13.3\n            ",
+    "price": "\n                960 €\n\n            "
+  },
+  {
+    "title": "\n                TOSHIBA Tecra A40-E-198 CPU i5-8250U 1600 MHz 14\n            ",
+    "price": "\n                935 €\n\n            "
+  },
+  {
+    "title": "\n                Acer Predator Helios 500 PH517-61-R4AR Black, 17.3\", 256GB SSD, 1TB HDD, 32GB RAM, AMD Ryzen 7 2700, AMD Radeon...\n            ",
+    "price": "\n                1959 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Vostro 3590 Melns Portatīvais dators 39,6 cm (15.6\") 1920 x 1080 pikseļi 10th gen Intel® Core™ i5 8 GB DDR4-SDRAM...\n            ",
+    "price": "\n                659 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkBook 14-IML, 14\", 256GB SSD, 8GB RAM, Intel i5-10210U, Intel UHD, Nordic, Win 10 Pro (20RV0002MX)\n            ",
+    "price": "\n                759 €\n\n            "
+  },
+  {
+    "title": "\n                Dell G3 15 3590 Black, 15.6\", 512GB SSD, 16GB RAM, Intel i7-9750H, NVIDIA GeForce GTX 1660 Ti, ENG, Win 10 Home...\n            ",
+    "price": "\n                1279 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Vostro 3590 Melns Portatīvais dators 39,6 cm (15.6\") 1920 x 1080 pikseļi 10th gen Intel® Core™ i5 8 GB DDR4-SDRAM...\n            ",
+    "price": "\n                689 €\n\n            "
+  },
+  {
+    "title": "\n                Asus VivoBook S431FA-EB019T Gun Grey, 14\", 256GB SSD, 8GB RAM, Intel i5-8265U, Intel UHD 620, ENG, Win 10 Home...\n            ",
+    "price": "\n                759 €\n\n            "
+  },
+  {
+    "title": "\n                Asus VivoBook UX362FA-EL254T Royal Blue, 13.3\", 256GB SSD, 8GB RAM, Intel i5-8265U, Intel HD 620, ENG, Win 10 Home...\n            ",
+    "price": "\n                909 €\n\n            "
+  },
+  {
+    "title": "\n                Asus ZenBook UX581GV-H2004R 15.6\", 512GB SSD, 16GB RAM, Intel i7-9750H, Intel UHD 630, NVIDIA GeForce RTX 2060,...\n            ",
+    "price": "\n                2739 €\n\n            "
+  },
+  {
+    "title": "\n                Dell Latitude 5300, 13.3\", 256GB SSD, 8GB RAM, Intel i5-8365U, Intel UHD 620, EST, Win 10 Pro (N010L530013EMEA_2)\n            ",
+    "price": "\n                1102 €\n\n            "
+  },
+  {
+    "title": "\n                Dell G3 15 3590, 15.6\", 512GB SSD, 8GB RAM, Intel i7-9750H, NVIDIA GeForce GTX 1660 Ti, ENG, Linux (273282439)\n            ",
+    "price": "\n                1149 €\n\n            "
+  },
+  {
+    "title": "\n                Dell G3 15 3590, 15.6\", 256GB SSD, 1TB HDD, 8GB RAM, Intel i5-9300H, NVIDIA GeForce GTX 1050, ENG, Linux (273282437)\n            ",
+    "price": "\n                729 €\n\n            "
+  },
+  {
+    "title": "\n                Dell G3 15 3590, 15.6\", 256GB SSD, 1TB HDD, 16GB RAM, Intel i7-9750H, NVIDIA GeForce GTX 1650, ENG, Linux (273285295)\n            ",
+    "price": "\n                959 €\n\n            "
+  },
+  {
+    "title": "\n                Dell G3 15 3590 Black, 15.6\", 512GB SSD, 8GB RAM, Intel i7-9750H, NVIDIA GeForce GTX 1660 Ti, ENG, Win 10 Home...\n            ",
+    "price": "\n                1229 €\n\n            "
+  },
+  {
+    "title": "\n                Dell G3 15 3590, 15.6\", 256GB SSD, 1TB HDD, 8GB RAM, Intel i5-9300H, NVIDIA GeForce GTX 1650, ENG, Linux (273285301)\n            ",
+    "price": "\n                789 €\n\n            "
+  },
+  {
+    "title": "\n                Asus ROG GA502DU-AL005T, 15.6\", 512GB SSD, 8GB RAM, AMD Ryzen 7 3750H, NVIDIA GeForce GTX 1660 Ti, ENG, Win 10...\n            ",
+    "price": "\n                1229 €\n\n            "
+  },
+  {
+    "title": "\n                Acer Aspire 5 A515-43-R9XL Black, 15.6\", 256GB SSD, 8GB RAM, AMD Ryzen 5 3500U, AMD Radeon Vega 8, ENG, Win 10...\n            ",
+    "price": "\n                669 €\n\n            "
+  },
+  {
+    "title": "\n                Microsoft Surface Laptop 3 Platīns Portatīvais dators 38,1 cm (15\") 2496 x 1664 pikseļi Skārienjūtīgais ekrāns...\n            ",
+    "price": "\n                1349 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 3300 CPU i3-7020U 2300 MHz 13.3\n            ",
+    "price": "\n                633 €\n\n            "
+  },
+  {
+    "title": "\n                HP EliteBook x360 1040 G6, 14\", 512GB SSD, 16GB RAM, Intel i7-8565U, Intel UHD 620, ENG, Win 10 Pro (7KN65EA#B1R)\n            ",
+    "price": "\n                2169 €\n\n            "
+  },
+  {
+    "title": "\n                Dell Latitude 7300, 13.3\", 256GB SSD, 8GB RAM, Intel i5-8265U, Intel UHD 620, ENG, Win 10 Pro (N030L730013EMEA_US)\n            ",
+    "price": "\n                1469 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo IdeaPad X395, 13.3\", 256GB SSD, 16GB RAM, AMD Ryzen 5-3500U, AMD Radeon Vega 8, ENG, Win 10 Pro (20NL001HMH)\n            ",
+    "price": "\n                1149 €\n\n            "
+  },
+  {
+    "title": "\n                Microsoft Surface Laptop 3, 13.3\", 256GB SSD, 8GB RAM, Intel i5-1035G7, Intel HD, Win 10 Home (V4C-00008)\n            ",
+    "price": "\n                1478 €\n\n            "
+  },
+  {
+    "title": "\n                Dell G5 15 5590 Black, 15.6\", 512GB SSD, 8GB RAM, Intel i5-9300H, NVIDIA GeForce GTX 1650, ENG, Win 10 Home (273256815)\n            ",
+    "price": "\n                1129 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad X1 Yoga, 14\", 512GB SSD, 16GB, Intel i7-8665U, Intel UHD, Touchscreen, Nordic, Win 10 Pro (20QG001HMX)\n            ",
+    "price": "\n                3079 €\n\n            "
+  },
+  {
+    "title": "\n                HP EliteBook x360 1040 G6, 14\", 512GB SSD, 16GB RAM, Intel i5-8265U, Intel UHD 620, ENG, Win 10 Pro (7KN39EA#B1R)\n            ",
+    "price": "\n                2129 €\n\n            "
+  },
+  {
+    "title": "\n                Dell Latitude 7400 Carbon, 14\", 256GB SSD, 8GB RAM, Intel i5-8265U, Intel UHD, ENG, Win 10 Pro (N050L740014EMEA_US)\n            ",
+    "price": "\n                1459 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad X1 Yoga, 14\", 512GB SSD, 16GB, Intel i7-8665U, Intel UHD, Touchscreen, Nordic, Win 10 Pro (20QG001HMX)\n            ",
+    "price": "\n                3039 €\n\n            "
+  },
+  {
+    "title": "\n                HP EliteBook x360 1030 G4 Sudrabs Hibrīds (divi vienā) 33,8 cm (13.3\") 1920 x 1080 pikseļi Skārienjūtīgais ekrāns...\n            ",
+    "price": "\n                1809 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad L13 Melns Portatīvais dators 33,8 cm (13.3\") 1920 x 1080 pikseļi 10th gen Intel® Core™ i5 8 GB...\n            ",
+    "price": "\n                859 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad E495 Melns Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi AMD Ryzen 5 16 GB DDR4-SDRAM 512...\n            ",
+    "price": "\n                799 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 5501 Melns Portatīvais dators 39,6 cm (15.6\") 1920 x 1080 pikseļi 9th gen Intel® Core™ i7 16 GB DDR4-SDRAM...\n            ",
+    "price": "\n                1579 €\n\n            "
+  },
+  {
+    "title": "\n                ASUS ZenBook Series UX392FN-AB006R CPU i7-8565U 1800 MHz 13.9\n            ",
+    "price": "\n                1318 €\n\n            "
+  },
+  {
+    "title": "\n                MSI GL75 9SD CPU i7-9750H 2600 MHz 17.3\n            ",
+    "price": "\n                1454 €\n\n            "
+  },
+  {
+    "title": "\n                ASUS ZenBook Series UX434FLC-A5305T CPU i7-10510U 1800 MHz 14\n            ",
+    "price": "\n                1243 €\n\n            "
+  },
+  {
+    "title": "\n                Microsoft Surface Laptop 3 Melns Portatīvais dators 38,1 cm (15\") 2496 x 1664 pikseļi Skārienjūtīgais ekrāns 3rd...\n            ",
+    "price": "\n                1696 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 5500 CPU i5-8265U 1600 MHz 15.6\n            ",
+    "price": "\n                1051 €\n\n            "
+  },
+  {
+    "title": "\n                HP EliteBook 1050 G1 Sudrabs Portatīvais dators 39,6 cm (15.6\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i5 16...\n            ",
+    "price": "\n                2289 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Vostro 5490 CPU i3-10110U 2100 MHz 14\n            ",
+    "price": "\n                635 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad P53 Melns Mobila darbstacija 39,6 cm (15.6\") 1920 x 1080 pikseļi 9th gen Intel® Core™ i7 16 GB...\n            ",
+    "price": "\n                3039 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Precision 5530 2-in-1 CPU i7-8706G 3100 MHz 15.6\n            ",
+    "price": "\n                2618 €\n\n            "
+  },
+  {
+    "title": "\n                ACER Nitro AN515-54-59P4 CPU i5-9300H 2400 MHz 15.6\n            ",
+    "price": "\n                884 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad T490s Melns Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i5 16 GB...\n            ",
+    "price": "\n                2029 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad T490s Melns Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i5 16 GB...\n            ",
+    "price": "\n                1889 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad T590 Melns Portatīvais dators 39,6 cm (15.6\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i5 16 GB...\n            ",
+    "price": "\n                1609 €\n\n            "
+  },
+  {
+    "title": "\n                Microsoft Surface Laptop 3 Platīns Portatīvais dators 34,3 cm (13.5\") 2256 x 1504 pikseļi Skārienjūtīgais ekrāns...\n            ",
+    "price": "\n                1176 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 5300 Melns Hibrīds (divi vienā) 33,8 cm (13.3\") 1920 x 1080 pikseļi Skārienjūtīgais ekrāns 8th gen...\n            ",
+    "price": "\n                1809 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad P53s Melns Mobila darbstacija 39,6 cm (15.6\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i7 32 GB...\n            ",
+    "price": "\n                2419 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Precision 5540 Melns, Sudrabs Mobila darbstacija 39,6 cm (15.6\") 1920 x 1080 pikseļi 9th gen Intel® Core™...\n            ",
+    "price": "\n                2759 €\n\n            "
+  },
+  {
+    "title": "\n                HP EliteBook x360 1030 G4 Sudrabs Hibrīds (divi vienā) 33,8 cm (13.3\") 1920 x 1080 pikseļi Skārienjūtīgais ekrāns...\n            ",
+    "price": "\n                1619 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 3300 Melns Portatīvais dators 33,8 cm (13.3\") 1366 x 768 pikseļi 7th gen Intel® Core™ i3 4 GB DDR4-SDRAM...\n            ",
+    "price": "\n                633 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad X390 Yoga\n            ",
+    "price": "\n                1779 €\n\n            "
+  },
+  {
+    "title": "\n                HP ProBook 430 G6 Sudrabs Portatīvais dators 33,8 cm (13.3\") 8th gen Intel® Core™ i5 8 GB DDR4-SDRAM 512 GB SSD...\n            ",
+    "price": "\n                909 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Precision 7740 Melns Mobila darbstacija 43,9 cm (17.3\") 1920 x 1080 pikseļi 9th gen Intel® Core™ i7 16 GB...\n            ",
+    "price": "\n                2939 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Precision 7740 Melns Mobila darbstacija 43,9 cm (17.3\") 3840 x 2160 pikseļi 9th gen Intel® Core™ i7 32 GB...\n            ",
+    "price": "\n                3999 €\n\n            "
+  },
+  {
+    "title": "\n                MSI GS75 Stealth 9SD CPU i7-9750H 2600 MHz 17.3\n            ",
+    "price": "\n                1726 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad T490s Melns Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i7 16 GB...\n            ",
+    "price": "\n                2049 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad X380 Yoga Melns Hibrīds (divi vienā) 33,8 cm (13.3\") 1920 x 1080 pikseļi Skārienjūtīgais ekrāns...\n            ",
+    "price": "\n                1159 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 5401 CPU i7-9850H 2600 MHz 14\n            ",
+    "price": "\n                1511 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad T490s, 14\", 256GB SSD, 16GB RAM, Intel i5-8265U, Intel UHD 620, ENG, Win 10 Pro (20NX0056MH)\n            ",
+    "price": "\n                1669 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo Legion Y740 Melns Portatīvais dators 39,6 cm (15.6\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i7 16 GB DDR4-SDRAM...\n            ",
+    "price": "\n                1829 €\n\n            "
+  },
+  {
+    "title": "\n                Acer Aspire A515-54-51AY, 15.6\", 256GB SSD, 8GB RAM, Intel i5-8265U, Intel UHD 620, ENG, Win 10 Home (NX.HDJEL.008)\n            ",
+    "price": "\n                949 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Precision 5540 Melns, Sudrabs Mobila darbstacija 39,6 cm (15.6\") 1920 x 1080 pikseļi 9th gen Intel® Core™...\n            ",
+    "price": "\n                2439 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad X1 Yoga Melns Hibrīds (divi vienā) 35,6 cm (14\") 2560 x 1440 pikseļi Skārienjūtīgais ekrāns 7th...\n            ",
+    "price": "\n                1159 €\n\n            "
+  },
+  {
+    "title": "\n                HP ProBook 450 G6 Sudrabs Portatīvais dators 39,6 cm (15.6\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i5 16 GB...\n            ",
+    "price": "\n                989 €\n\n            "
+  },
+  {
+    "title": "\n                MSI GP65 Leopard 9SD CPU i7-9750H 2600 MHz 15.6\n            ",
+    "price": "\n                1454 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad P53 Melns Mobila darbstacija 39,6 cm (15.6\") 3840 x 2160 pikseļi 9th gen Intel® Core™ i9 32 GB...\n            ",
+    "price": "\n                5329 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad T490s Melns Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i5 16 GB...\n            ",
+    "price": "\n                1739 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo Legion Y530 Melns Portatīvais dators 39,6 cm (15.6\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i7 16 GB DDR4-SDRAM...\n            ",
+    "price": "\n                1369 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 3301 Melns Portatīvais dators 33,8 cm (13.3\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i3 4 GB LPDDR3-SDRAM...\n            ",
+    "price": "\n                859 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad T490s Melns Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i5 16 GB...\n            ",
+    "price": "\n                1689 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Precision 7730 Melns Mobila darbstacija 43,9 cm (17.3\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i7 16 GB...\n            ",
+    "price": "\n                3859 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 5501 Melns Portatīvais dators 39,6 cm (15.6\") 1920 x 1080 pikseļi 9th gen Intel® Core™ i7 16 GB DDR4-SDRAM...\n            ",
+    "price": "\n                1516 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 7400 2-in-1 CPU i7-8665U 1900 MHz 14\n            ",
+    "price": "\n                2384 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 7400 2-in-1 CPU i5-8265U 1600 MHz 14\n            ",
+    "price": "\n                2010 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 5401 CPU i7-9850H 2600 MHz 14\n            ",
+    "price": "\n                1454 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Precision 7730 CPU E-2186M 2900 MHz 17.3\n            ",
+    "price": "\n                3364 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 5300 2-in-1 CPU i7-8665U 1900 MHz 13.3\n            ",
+    "price": "\n                1735 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 7400 Melns Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i5 8 GB DDR4-SDRAM...\n            ",
+    "price": "\n                1389 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 5300 2-in-1 CPU i5-8365U 1600 MHz 13.3\n            ",
+    "price": "\n                1327 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 3400 CPU i3-8145U 2100 MHz 14\n            ",
+    "price": "\n                716 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 7490 CPU i5-8350U 1700 MHz 14\n            ",
+    "price": "\n                1532 €\n\n            "
+  },
+  {
+    "title": "\n                Dell Latitude 3590, 15.6\", 256GB SSD, 8GB RAM, Intel i5-8250U, Intel UHD 620, Nordic, Win 10 Pro (N030L359015EMEA_1_PD)\n            ",
+    "price": "\n                907 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 3400 Melns Portatīvais dators 35,6 cm (14\") 1366 x 768 pikseļi 8th gen Intel® Core™ i3 4 GB DDR4-SDRAM...\n            ",
+    "price": "\n                716 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 7300 CPU i7-8665U 1900 MHz 13.3\n            ",
+    "price": "\n                1802 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 7400 Melns, Sudrabs Hibrīds (divi vienā) 35,6 cm (14\") 1920 x 1080 pikseļi Skārienjūtīgais ekrāns...\n            ",
+    "price": "\n                2010 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 5300 CPU i7-8665U 1900 MHz 13.3\n            ",
+    "price": "\n                1388 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 5300 2-in-1 CPU i5-8365U 1600 MHz 13.3\n            ",
+    "price": "\n                1323 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 3400 CPU i5-8265U 1600 MHz 14\n            ",
+    "price": "\n                865 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad T495 Melns Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi AMD Ryzen 5 PRO 8 GB DDR4-SDRAM...\n            ",
+    "price": "\n                1079 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad E595 Melns Portatīvais dators 39,6 cm (15.6\") 1920 x 1080 pikseļi AMD Ryzen 5 8 GB DDR4-SDRAM 256...\n            ",
+    "price": "\n                699 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad T490s 14 FHD i5-8265U\n            ",
+    "price": "\n                1669 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 5300 Melns Hibrīds (divi vienā) 33,8 cm (13.3\") 1920 x 1080 pikseļi Skārienjūtīgais ekrāns 8th gen...\n            ",
+    "price": "\n                1669 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 7400 Melns, Sudrabs Hibrīds (divi vienā) 35,6 cm (14\") 1920 x 1080 pikseļi Skārienjūtīgais ekrāns...\n            ",
+    "price": "\n                2009 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 5300 Melns Hibrīds (divi vienā) 33,8 cm (13.3\") 1920 x 1080 pikseļi Skārienjūtīgais ekrāns 8th gen...\n            ",
+    "price": "\n                1159 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 3301 Melns Portatīvais dators 33,8 cm (13.3\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i5 8 GB LPDDR3-SDRAM...\n            ",
+    "price": "\n                839 €\n\n            "
+  },
+  {
+    "title": "\n                HP OMEN 17-cb0005na Melns Portatīvais dators 43,9 cm (17.3\") 1920 x 1080 pikseļi 9th gen Intel® Core™ i7 16 GB...\n            ",
+    "price": "\n                1739 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad P53 Melns Mobila darbstacija 39,6 cm (15.6\") 1920 x 1080 pikseļi 9th gen Intel® Core™ i7 16 GB...\n            ",
+    "price": "\n                2569 €\n\n            "
+  },
+  {
+    "title": "\n                HP EliteBook x360 1040 G6 Sudrabs Hibrīds (divi vienā) 35,6 cm (14\") 1920 x 1080 pikseļi Skārienjūtīgais ekrāns...\n            ",
+    "price": "\n                1849 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 5500 Melns Portatīvais dators 39,6 cm (15.6\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i5 16 GB DDR4-SDRAM...\n            ",
+    "price": "\n                1189 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad X1 Carbon Melns Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i7 16...\n            ",
+    "price": "\n                2459 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad P1 Melns Mobila darbstacija 39,6 cm (15.6\") 1920 x 1080 pikseļi 9th gen Intel® Core™ i7 16 GB DDR4-SDRAM...\n            ",
+    "price": "\n                2839 €\n\n            "
+  },
+  {
+    "title": "\n                ASUS TUF Gaming FX505DU-AL083R Melns Portatīvais dators 39,6 cm (15.6\") 1920 x 1080 pikseļi AMD Ryzen 7 16 GB DDR4-SDRAM...\n            ",
+    "price": "\n                1179 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad E495 Melns Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi AMD Ryzen 5 16 GB DDR4-SDRAM 512...\n            ",
+    "price": "\n                799 €\n\n            "
+  },
+  {
+    "title": "\n                Dell Mobile Precision 3541 AG FHD i9-9880H\n            ",
+    "price": "\n                1989 €\n\n            "
+  },
+  {
+    "title": "\n                HP EliteBook 830 G6 Sudrabs Portatīvais dators 33,8 cm (13.3\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i7 16 GB...\n            ",
+    "price": "\n                1809 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad T495 Melns Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi AMD Ryzen 5 PRO 16 GB DDR4-SDRAM...\n            ",
+    "price": "\n                1369 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad X390 Melns Portatīvais dators 33,8 cm (13.3\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i5 16 GB...\n            ",
+    "price": "\n                1629 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad T490\n            ",
+    "price": "\n                1449 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad X1 Carbon Melns Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i5 16...\n            ",
+    "price": "\n                1839 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad X1 Yoga Pelēks Hibrīds (divi vienā) 35,6 cm (14\") 2560 x 1440 pikseļi Skārienjūtīgais ekrāns 8th...\n            ",
+    "price": "\n                2499 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad X1 Yoga Pelēks Hibrīds (divi vienā) 35,6 cm (14\") 2560 x 1440 pikseļi Skārienjūtīgais ekrāns 8th...\n            ",
+    "price": "\n                2839 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad X1 Yoga Pelēks Hibrīds (divi vienā) 35,6 cm (14\") 2560 x 1440 pikseļi Skārienjūtīgais ekrāns 8th...\n            ",
+    "price": "\n                2469 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad T490 Melns Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i5 16 GB DDR4-SDRAM...\n            ",
+    "price": "\n                1749 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad T490 Melns Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i5 16 GB DDR4-SDRAM...\n            ",
+    "price": "\n                1519 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad X390 Yoga Melns Hibrīds (divi vienā) 33,8 cm (13.3\") 1920 x 1080 pikseļi Skārienjūtīgais ekrāns...\n            ",
+    "price": "\n                1919 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad X390 Yoga Melns Hibrīds (divi vienā) 33,8 cm (13.3\") 1920 x 1080 pikseļi Skārienjūtīgais ekrāns...\n            ",
+    "price": "\n                1919 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad X1 Carbon Melns Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi Skārienjūtīgais ekrāns 8th...\n            ",
+    "price": "\n                2469 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad X1 Carbon Melns Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i5 16...\n            ",
+    "price": "\n                1859 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad X1 Carbon Melns Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i5 16...\n            ",
+    "price": "\n                2099 €\n\n            "
+  },
+  {
+    "title": "\n                HP EliteBook 830 G6 Sudrabs Portatīvais dators 33,8 cm (13.3\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i5 8 GB...\n            ",
+    "price": "\n                1299 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad X1 Carbon 14 FHD i5-8265U\n            ",
+    "price": "\n                1859 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad X1 Carbon 14 FHD i5-8265U\n            ",
+    "price": "\n                2099 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad X1 Carbon Melns Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i5 16...\n            ",
+    "price": "\n                1839 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad X1 Carbon Melns Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i5 16...\n            ",
+    "price": "\n                2019 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad X390 Melns Portatīvais dators 33,8 cm (13.3\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i5 16 GB...\n            ",
+    "price": "\n                1649 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad X390 Melns Portatīvais dators 33,8 cm (13.3\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i7 16 GB...\n            ",
+    "price": "\n                1819 €\n\n            "
+  },
+  {
+    "title": "\n                Griestu stiprinājums Logilink, BP0067\n            ",
+    "price": "\n                49,95 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 7400 Melns, Sudrabs Hibrīds (divi vienā) 35,6 cm (14\") 1920 x 1080 pikseļi Skārienjūtīgais ekrāns...\n            ",
+    "price": "\n                1649 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad L490, 14\", 256GB SSD, 8GB RAM, Intel i7-8565U, Intel UHD 620, ENG, Win 10 Pro (20Q50021MH)\n            ",
+    "price": "\n                1039 €\n\n            "
+  },
+  {
+    "title": "\n                HP ProBook 640 G5, 14\", 256GB SSD, 8GB RAM, Intel i5-8265U, Intel UHD 620, ENG, Win 10 Pro (7KP24EA#B1R\n            ",
+    "price": "\n                1059 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad L490 Black, 14\", 256GB SSD, 8GB RAM, Intel i5-8265U, Intel UHD 620, ENG, Win 10 Pro (20Q5001YMH)\n            ",
+    "price": "\n                969 €\n\n            "
+  },
+  {
+    "title": "\n                HP EliteBook 830 G6, 13.3\", 512GB SSD, 16GB RAM, Intel i7-8565U, Intel UHD 620, Win 10 Pro (6XE16EA#B1R)\n            ",
+    "price": "\n                1809 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad L590 Black, 15.6\", 256GB SSD, 8GB RAM, Intel i7-8565U, Intel UHD 620, ENG, Win 10 Pro (20Q7001FMH)\n            ",
+    "price": "\n                1059 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad L590 Melns Portatīvais dators 39,6 cm (15.6\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i7 8 GB...\n            ",
+    "price": "\n                839 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad L490 Melns Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i7 8 GB DDR4-SDRAM...\n            ",
+    "price": "\n                1039 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad L590 Black, 15.6\", 256GB SSD, 8GB RAM, Intel i5-8265U, Intel UHD, ENG, Win 10 Pro (20Q7000YMH)\n            ",
+    "price": "\n                949 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad L490 Black, 14\", 256GB SSD, 8GB RAM, Intel i7-8565U, Intel UHD, ENG, Win 10 Pro (20Q50021MH)\n            ",
+    "price": "\n                1049 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 5400 Melns Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i7 16 GB DDR4-SDRAM...\n            ",
+    "price": "\n                1429 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 7300 Melns Portatīvais dators 33,8 cm (13.3\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i5 16 GB DDR4-SDRAM...\n            ",
+    "price": "\n                1599 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad L490 Black, 14\", 256GB SSD, 8GB RAM, Intel i5-8265U, Intel UHD, ENG, Win 10 Pro (20Q5001YMH)\n            ",
+    "price": "\n                979 €\n\n            "
+  },
+  {
+    "title": "\n                Acer Nitro 5 AN515-54 Black, 15.6\", 128GB SSD, 1TB HDD, 8GB RAM, Intel i5-9300H, NVIDIA GeForce 1650, ENG, Win...\n            ",
+    "price": "\n                1129 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad L490\n            ",
+    "price": "\n                939 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 7400 Melns, Ogleklis Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i5...\n            ",
+    "price": "\n                1239 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad L590 Melns Portatīvais dators 39,6 cm (15.6\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i5 8 GB...\n            ",
+    "price": "\n                1039 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad L590 Black, 15.6\", 256GB SSD, 8GB RAM, Intel i7-8565U, Intel UHD, Nordic tastatūra, Win 10 Pro...\n            ",
+    "price": "\n                1069 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad L590 LTE Black, 15.6\", 256GB SSD, 8GB RAM, Intel i5-8265U, Intel UHD, ENG, Win 10 Pro (20Q7001BMH)\n            ",
+    "price": "\n                1039 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad X390 Yoga Black, 13.3\", 256GB SSD, 8GB RAM, Intel i5-8265U, Intel UHD, ENG, Win 10 Pro (20NN0026MH)\n            ",
+    "price": "\n                1679 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad L490 Melns Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i5 8 GB DDR4-SDRAM...\n            ",
+    "price": "\n                1019 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad L490 Black, 14\", 256GB SSD, 8GB RAM, Intel i5-8265U, Intel UHD, Nordic tastatūra, Win 10 Pro (20Q5001YMX)\n            ",
+    "price": "\n                979 €\n\n            "
+  },
+  {
+    "title": "\n                Acer Aspire 7 A715-72G Black, 15.6\", 128GB SSD, 500GB HDD, 8GB RAM, Intel i5-8300H, NVIDIA GeForce 1050, ENG/RUS,...\n            ",
+    "price": "\n                969 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo Legion Y730, 15.6\", 256GB SSD, 1TB HDD, 16GB RAM, Intel i7-8750H, NVIDIA GeForce GTX 1050 Ti, Nordic tastatūra,...\n            ",
+    "price": "\n                1579 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo Legion Y730, 15.6\", 256GB SSD, 1TB HDD, 16GB RAM, Intel i7-8750H, NVIDIA GeForce GTX 1050 Ti, ENG, Win 10...\n            ",
+    "price": "\n                1579 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo Legion Y530, 15.6\", 16GB SSD, 2TB HDD, 8GB RAM, Intel i5-8300H, NVIDIA GeForce GTX 1050 Ti, ENG, Win 10...\n            ",
+    "price": "\n                979 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo Legion Y530, 256GB SSD, 8GB RAM, Intel i5-8300H, NVIDIA GeForce GTX 1050 Ti, ENG, Win 10 Home (81FV014GLT)...\n            ",
+    "price": "\n                999 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo Legion Y530, 15.6\", 128GB SSD, 1TB HDD, 8GB RAM, Intel i5-8300H, NVIDIA GeForce GTX 1050 Ti, ENG, Win 10...\n            ",
+    "price": "\n                1059 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo Legion Y530, 15.6\", 512GB SSD, 8GB RAM, Intel i7-8750H, NVIDIA GeForce GTX 1050 Ti, ENG, Win 10 Home (81FV014JLT)...\n            ",
+    "price": "\n                1199 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo Legion Y530, 15.6\", 128GB SSD, 1TB HDD, 8GB RAM, Intel i7-8750H, NVIDIA GeForce GTX 1050 Ti, ENG, Win 10...\n            ",
+    "price": "\n                1179 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo Legion Y530, 15.6\", 128GB SSD, 1TB HDD, 8GB RAM, Intel i5-8300H, NVIDIA GeForce GTX 1060, ENG, Win 10 Home...\n            ",
+    "price": "\n                1249 €\n\n            "
+  },
+  {
+    "title": "\n                Dell Vostro 5471, 14\", 256GB SSD, 8GB RAM, Intel i5-8250U, Intel, ENG, Win 10 Home + dāvanā Natec Impala datorsoma\n            ",
+    "price": "\n                849 €\n\n            "
+  },
+  {
+    "title": "\n                Dell Vostro 3578, 15\", 256GB SSD, 8GB RAM, Intel i7-8550U, AMD Radeon R5 M420, ENG, Win 10 Home + dāvanā Natec...\n            ",
+    "price": "\n                759 €\n\n            "
+  },
+  {
+    "title": "\n                Dell Vostro 5370, 13.3\", 256GB SSD, 8GB RAM, Intel i5-8250U, AMD Radeon 530, ENG, Win 10 Home + dāvanā Natec Impala...\n            ",
+    "price": "\n                899 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad L590 Black, 15.6\", 256GB SSD, 8GB RAM, Intel i7-8565U, Intel UHD, ENG, Win 10 Pro (20Q7001FMH)\n            ",
+    "price": "\n                1069 €\n\n            "
+  },
+  {
+    "title": "\n                Portatīvais dators PortFujitsu LIFEBOOK U729x, 12.5\", Core i7 8665U, Win 10 Pro, 16 GB RAM, 512 GB SSD, melns,...\n            ",
+    "price": "\n                1789 €\n\n            "
+  },
+  {
+    "title": "\n                Portatīvais dators LENOVO 330S I5/14FHD/6GB/256SSD/W10/FI\n            ",
+    "price": "\n                659 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 7400 Melns, Ogleklis Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i5...\n            ",
+    "price": "\n                1519 €\n\n            "
+  },
+  {
+    "title": "\n                Portatīvais dators DELL Latitude 7300 41NVJ, 13.3\" Full HD, i5-8265U, 8GB SSD, Windows 10 Pro, melns\n            ",
+    "price": "\n                1309 €\n\n            "
+  },
+  {
+    "title": "\n                Portatīvais dators DELL Latitude 5500 39MRN, 15.6\" Full HD, i5-8265U, 8GB RAM, 256GB SSD, Windows 10 Pro, melns\n            ",
+    "price": "\n                899 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 7300 Melns Portatīvais dators 33,8 cm (13.3\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i7 16 GB DDR4-SDRAM...\n            ",
+    "price": "\n                1769 €\n\n            "
+  },
+  {
+    "title": "\n                Acer Aspire 5 A515-52G Black, 15.6\", 128GB SSD, 1TB HDD, 8GB RAM, Intel i5-8265U, NVIDIA GeForce MX150, ENG, Win...\n            ",
+    "price": "\n                809 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad L390, 13.3\", 256GB SSD, 8GB RAM, Intel i5-8265U, Intel UHD, ENG, Win 10 Pro (20NR0013MH)\n            ",
+    "price": "\n                799 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo Legion Y530 Melns Portatīvais dators 39,6 cm (15.6\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i5 16 GB DDR4-SDRAM...\n            ",
+    "price": "\n                1089 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo Legion Y530 Melns Portatīvais dators 39,6 cm (15.6\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i5 8 GB DDR4-SDRAM...\n            ",
+    "price": "\n                969 €\n\n            "
+  },
+  {
+    "title": "\n                Fujitsu LIFEBOOK U939 Melns Portatīvais dators 33,8 cm (13.3\") 1920 x 1080 pikseļi Skārienjūtīgais ekrāns 8th gen...\n            ",
+    "price": "\n                1449 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad T480 14\", SSD 256GB, RAM 8GB, Intel i5, Windows 10 Pro\n            ",
+    "price": "\n                1019 €\n\n            "
+  },
+  {
+    "title": "\n                HP Zbook 15v G5, 15.6\", 256GB SSD, 8GB RAM, Intel i7-8750H, NVIDIA Quadro P600, Win 10 Pro (2ZC55EA#ABB)\n            ",
+    "price": "\n                1459 €\n\n            "
+  },
+  {
+    "title": "\n                Dell Latitude 7300 Silver, 13.3\", 256GB SSD, 8GB RAM, Intel i5-8365U, Intel UHD, ENG, Win 10 Pro (N048L730013EMEA)\n            ",
+    "price": "\n                1579 €\n\n            "
+  },
+  {
+    "title": "\n                Dell Latitude 7300 Black, 13.3\", 256GB SSD, 8GB RAM, Intel i5-8365U, Intel UHD, ENG, Win 10 Pro (N035L730013EMEA)\n            ",
+    "price": "\n                1659 €\n\n            "
+  },
+  {
+    "title": "\n                Dell G5 15 5590 Black, 15.6\", 256GB SSD, 1TB HDD, 8GB RAM, Intel i5-8300H, NVIDIA GeForce GTX 1050 Ti, Nordic,...\n            ",
+    "price": "\n                1049 €\n\n            "
+  },
+  {
+    "title": "\n                Portatīvais dators DELL LAT-E5450 CI5-5300U 14\n            ",
+    "price": "\n                1135 €\n\n            "
+  },
+  {
+    "title": "\n                Portatīvais dators DELL LAT-E5450 CI5-5300U 14\n            ",
+    "price": "\n                1046 €\n\n            "
+  },
+  {
+    "title": "\n                Portatīvais dators DELL LAT-E7250 CI5-5300U 12\n            ",
+    "price": "\n                1308 €\n\n            "
+  },
+  {
+    "title": "\n                Portatīvais dators DELL LAT-E5450 CI5-5300U 14\n            ",
+    "price": "\n                1085 €\n\n            "
+  },
+  {
+    "title": "\n                Portatīvais dators DELL LAT-E7450 CI7-5600U 14\n            ",
+    "price": "\n                1698 €\n\n            "
+  },
+  {
+    "title": "\n                Portatīvais dators DELL LAT-E7250 CI7-5600U 12\n            ",
+    "price": "\n                1469 €\n\n            "
+  },
+  {
+    "title": "\n                Portatīvais dators DELL LAT-E7250 CI7-5600U 12\n            ",
+    "price": "\n                1527 €\n\n            "
+  },
+  {
+    "title": "\n                Portatīvais dators DELL LAT-E5550 CI5-5300U 15\n            ",
+    "price": "\n                1255 €\n\n            "
+  },
+  {
+    "title": "\n                Portatīvais dators DELL LAT-E5450 CI5-5300U 14\n            ",
+    "price": "\n                1006 €\n\n            "
+  },
+  {
+    "title": "\n                Portatīvais dators DELL LAT-E5450 CI5-5200U 14\n            ",
+    "price": "\n                857 €\n\n            "
+  },
+  {
+    "title": "\n                Portatīvais dators DELL LAT-E7450 CI5-5300U 14\n            ",
+    "price": "\n                1315 €\n\n            "
+  },
+  {
+    "title": "\n                Portatīvais dators DELL LAT-E7250 CI5-5300U 12\n            ",
+    "price": "\n                1308 €\n\n            "
+  },
+  {
+    "title": "\n                Portatīvais dators DELL LAT-E5550 CI5-5300U 15\n            ",
+    "price": "\n                1073 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad T490, 14\", 512GB SSD, 16GB RAM, Intel i7-8565U, NVIDIA GeForce MX250, Nordic tastatūra, Win 10...\n            ",
+    "price": "\n                2259 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad X390, 13.3\", 256GB SSD, 16GB RAM, Intel i7-8565U, Intel UHD, Nordic tastatūra, Win 10 Pro (20Q0002LMX)\n            ",
+    "price": "\n                1629 €\n\n            "
+  },
+  {
+    "title": "\n                Dell XPS 13 9365, 13.3\", 256GB SSD, 8GB RAM, Intel i7-8500Y, ENG, Win 10 Home\n            ",
+    "price": "\n                1269 €\n\n            "
+  },
+  {
+    "title": "\n                Dell XPS 13 9365 (FHD/i7-8500Y/16GB/512GB/W10)\n            ",
+    "price": "\n                1269 €\n\n            "
+  },
+  {
+    "title": "\n                Microsoft Surface Book 2 Sudrabs Hibrīds (divi vienā) 34,3 cm (13.5\") 3000 x 2000 pikseļi Skārienjūtīgais ekrāns...\n            ",
+    "price": "\n                2831 €\n\n            "
+  },
+  {
+    "title": "\n                Dell Latitude 7390, 13.3\", SSD 256GB, RAM 8GB, Intel UHD 620, Nordic, Windows 10 Pro (N018L7390132N1EMEA_2)\n            ",
+    "price": "\n                1584 €\n\n            "
+  },
+  {
+    "title": "\n                Portatīvais dators DELL LAT 7490 CI7-8650U 14\" S\n            ",
+    "price": "\n                1918 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo Legion Y530-15ICH, 15.6\", 512GB SSD, 8GB RAM, Intel i7-8750H, NVIDIA GeForce GTX 1060, Nordic tastatūra,...\n            ",
+    "price": "\n                1269 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad X390, 13.3\", 256GB SSD, 8GB RAM, Intel  i5-8265U, Intel UHD, ENG, Win 10 Pro (20Q1000LMH)\n            ",
+    "price": "\n                1479 €\n\n            "
+  },
+  {
+    "title": "\n                Acer Aspire 7 A715-72G Black, 15.6\", 256GB SSD, 8GB RAM, Intel i5-8300H, NVIDIA GeForce 1050 Ti, ENG/RUS, Win 10...\n            ",
+    "price": "\n                979 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo Legion Y530-15ICH, 15.6\", 512GB SSD, 8GB RAM, Intel i7-8750H, NVIDIA GeForce GTX 1060, Nordic tastatūra,...\n            ",
+    "price": "\n                1319 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo Legion Y530-15ICH, 15.6\", 256GB SSD, 1TB HDD, 8GB RAM, Intel i7-8750H, NVIDIA GeForce GTX 1060, Nordic tastatūra,...\n            ",
+    "price": "\n                1169 €\n\n            "
+  },
+  {
+    "title": "\n                Dell XPS 13 9380, 13.3\", 1TB SSD, 16GB RAM, Intel i7-8565U, ENG, Win 10\n            ",
+    "price": "\n                1859 €\n\n            "
+  },
+  {
+    "title": "\n                Dell XPS 13 9380, 13.3\", 512GB SSD, 16GB RAM, Intel i7-8565U, ENG, Win 10\n            ",
+    "price": "\n                1759 €\n\n            "
+  },
+  {
+    "title": "\n                Fujitsu LifeBook E449, 14\", 256GB SSD, 8GB RAM, Intel i5-8250U, Intel UHD 620, Nordic tastatūra, Win 10 Pro (VFY:E4490M350SNC)\n            ",
+    "price": "\n                729 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad X390 Yoga, 13.3\", 256GB SSD, 16GB RAM, Intel i5-8265U, Intel UHD 620, Nordic tastatūra, Win 10...\n            ",
+    "price": "\n                1919 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad X390 Yoga, 13.3\", 256GB SSD, 16GB RAM, Intel i7-8565U, Intel UHD 620, Nordic tastatūra, Win 10...\n            ",
+    "price": "\n                1829 €\n\n            "
+  },
+  {
+    "title": "\n                HP ZBook 15v G5 Pelēks Mobila darbstacija 39,6 cm (15.6\") 1920 x 1080 pikseļi 9th gen Intel® Core™ i5 8 GB DDR4-SDRAM...\n            ",
+    "price": "\n                1269 €\n\n            "
+  },
+  {
+    "title": "\n                HP ZBook 15v G5 Sudrabs Mobila darbstacija 39,6 cm (15.6\") 1920 x 1080 pikseļi 9th gen Intel® Core™ i7 16 GB DDR4-SDRAM...\n            ",
+    "price": "\n                1539 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo IdeaPad L340 Gaming Melns Portatīvais dators 39,6 cm (15.6\") 1920 x 1080 pikseļi 9th gen Intel® Core™ i7...\n            ",
+    "price": "\n                771 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo Legion Y540 Melns Portatīvais dators 39,6 cm (15.6\") 1920 x 1080 pikseļi 9th gen Intel® Core™ i5 8 GB DDR4-SDRAM...\n            ",
+    "price": "\n                851 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo Legion Y540 Melns Portatīvais dators 39,6 cm (15.6\") 1920 x 1080 pikseļi 9th gen Intel® Core™ i7 8 GB DDR4-SDRAM...\n            ",
+    "price": "\n                865 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo Legion Y540 Melns Portatīvais dators 39,6 cm (15.6\") 1920 x 1080 pikseļi 9th gen Intel® Core™ i7 8 GB DDR4-SDRAM...\n            ",
+    "price": "\n                1230 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo IdeaPad L340 Gaming Melns Portatīvais dators 39,6 cm (15.6\") 1920 x 1080 pikseļi 9th gen Intel® Core™ i5...\n            ",
+    "price": "\n                745 €\n\n            "
+  },
+  {
+    "title": "\n                LENOVO IdeaPad S540-15IML CPU i5-10210U 1600 MHz 15.6\n            ",
+    "price": "\n                649 €\n\n            "
+  },
+  {
+    "title": "\n                ASUS ROG GA502IU-AZ015T CPU 4800HS 2900 MHz 15.6\n            ",
+    "price": "\n                1389 €\n\n            "
+  },
+  {
+    "title": "\n                ASUS VivoBook Series S433FA-EB039T CPU i5-10210U 1600 MHz 14\n            ",
+    "price": "\n                706 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Vostro 5490 Melns, Pelēks Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi 10th gen Intel® Core™ i7 8...\n            ",
+    "price": "\n                968 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Vostro 3591 CPU i5-1035G1 1000 MHz 15.6\n            ",
+    "price": "\n                548 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Vostro 5590 CPU i7-10510U 1800 MHz 15.6\n            ",
+    "price": "\n                1095 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkBook 15 Pelēks Portatīvais dators 39,6 cm (15.6\") 1920 x 1080 pikseļi 10th gen Intel® Core™ i5 8 GB...\n            ",
+    "price": "\n                809 €\n\n            "
+  },
+  {
+    "title": "\n                ACER Swift SF314-57-39B4 CPU i3-1005G1 1200 MHz 14\n            ",
+    "price": "\n                597 €\n\n            "
+  },
+  {
+    "title": "\n                HP 255 G7 CPU 2500U 2000 MHz 15.6\n            ",
+    "price": "\n                496 €\n\n            "
+  },
+  {
+    "title": "\n                HP ProBook 430 G7 Sudrabs Portatīvais dators 33,8 cm (13.3\") 1920 x 1080 pikseļi 10th gen Intel® Core™ i5 8 GB...\n            ",
+    "price": "\n                919 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Vostro 3491 CPU i5-1035G1 1000 MHz 14\n            ",
+    "price": "\n                661 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Vostro 3591 CPU i5-1035G1 1000 MHz 15.6\n            ",
+    "price": "\n                624 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Vostro 5590 CPU i7-10510U 1800 MHz 15.6\n            ",
+    "price": "\n                973 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Vostro 3491 CPU i5-1035G1 1000 MHz 14\n            ",
+    "price": "\n                595 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Vostro 3591 CPU i5-1035G1 1000 MHz 15.6\n            ",
+    "price": "\n                714 €\n\n            "
+  },
+  {
+    "title": "\n                HP ProBook 450 G7 Sudrabs Portatīvais dators 39,6 cm (15.6\") 1920 x 1080 pikseļi 10th gen Intel® Core™ i5 8 GB...\n            ",
+    "price": "\n                879 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Vostro 3591 CPU i5-1035G1 1000 MHz 15.6\n            ",
+    "price": "\n                602 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Vostro 3591 CPU i7-1065G7 1300 MHz 15.6\n            ",
+    "price": "\n                847 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkBook 15 Pelēks Portatīvais dators 39,6 cm (15.6\") 1920 x 1080 pikseļi 10th gen Intel® Core™ i5 16 GB...\n            ",
+    "price": "\n                889 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkBook 14 Pelēks Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi 10th gen Intel® Core™ i7 16 GB...\n            ",
+    "price": "\n                1029 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkBook 14 Pelēks Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi 10th gen Intel® Core™ i5 16 GB...\n            ",
+    "price": "\n                889 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkBook 14 Pelēks Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi 10th gen Intel® Core™ i5 8 GB DDR4-SDRAM...\n            ",
+    "price": "\n                809 €\n\n            "
+  },
+  {
+    "title": "\n                ACER Swift SF514-54T-5412 CPU i5-1035G1 1000 MHz 14\n            ",
+    "price": "\n                863 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo IdeaPad S145 Melns Portatīvais dators 39,6 cm (15.6\") 1920 x 1080 pikseļi 10th gen Intel® Core™ i5 8 GB...\n            ",
+    "price": "\n                548 €\n\n            "
+  },
+  {
+    "title": "\n                HP EliteBook x360 1040 G6 Sudrabs Hibrīds (divi vienā) 35,6 cm (14\") 1920 x 1080 pikseļi Skārienjūtīgais ekrāns...\n            ",
+    "price": "\n                2529 €\n\n            "
+  },
+  {
+    "title": "\n                HP EliteBook x360 1040 G6 Sudrabs Hibrīds (divi vienā) 35,6 cm (14\") 1920 x 1080 pikseļi Skārienjūtīgais ekrāns...\n            ",
+    "price": "\n                2529 €\n\n            "
+  },
+  {
+    "title": "\n                HP ProBook 450 G7 Sudrabs Portatīvais dators 39,6 cm (15.6\") 1920 x 1080 pikseļi 10th gen Intel® Core™ i5 8 GB...\n            ",
+    "price": "\n                909 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Vostro 3590 CPU i5-10210U 1600 MHz 15.6\n            ",
+    "price": "\n                664 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo Yoga C940 Pelēks Hibrīds (divi vienā) 35,6 cm (14\") 1920 x 1080 pikseļi Skārienjūtīgais ekrāns 10th gen...\n            ",
+    "price": "\n                1469 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkBook 14 Pelēks Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi 10th gen Intel® Core™ i5 8 GB DDR4-SDRAM...\n            ",
+    "price": "\n                809 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Vostro 3490 CPU i5-10210U 1600 MHz 14\n            ",
+    "price": "\n                517 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 5501 Melns Portatīvais dators 39,6 cm (15.6\") 1920 x 1080 pikseļi 9th gen Intel® Core™ i5 16 GB DDR4-SDRAM...\n            ",
+    "price": "\n                1389 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 5400 Melns Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i5 16 GB DDR4-SDRAM...\n            ",
+    "price": "\n                1159 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 5401 Melns Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi 9th gen Intel® Core™ i5 8 GB DDR4-SDRAM...\n            ",
+    "price": "\n                1135 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 5400 Melns Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i7 16 GB DDR4-SDRAM...\n            ",
+    "price": "\n                1449 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 5500 CPU i5-8365U 1600 MHz 15.6\n            ",
+    "price": "\n                1095 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 7400 CPU i5-8365U 1700 MHz 14\n            ",
+    "price": "\n                1418 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 5400 CPU i5-8265U 1600 MHz 14\n            ",
+    "price": "\n                947 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 5500 Melns Portatīvais dators 39,6 cm (15.6\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i5 8 GB DDR4-SDRAM...\n            ",
+    "price": "\n                1066 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 5500 CPU i5-8365U 1600 MHz 15.6\n            ",
+    "price": "\n                1095 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 7400 CPU i7-8665U 1900 MHz 14\n            ",
+    "price": "\n                1799 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 7300 CPU i7-8665U 1900 MHz 13.3\n            ",
+    "price": "\n                1804 €\n\n            "
+  },
+  {
+    "title": "\n                HP EliteBook x360 830 G6 Sudrabs Hibrīds (divi vienā) 33,8 cm (13.3\") 1920 x 1080 pikseļi Skārienjūtīgais ekrāns...\n            ",
+    "price": "\n                1879 €\n\n            "
+  },
+  {
+    "title": "\n                ASUS ZenBook Series UX434FLC-A5353T CPU i5-10210U 1600 MHz 14\n            ",
+    "price": "\n                907 €\n\n            "
+  },
+  {
+    "title": "\n                HP EliteBook 735 G6 Sudrabs Portatīvais dators 33,8 cm (13.3\") 1920 x 1080 pikseļi AMD Ryzen 5 8 GB DDR4-SDRAM...\n            ",
+    "price": "\n                1139 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad E15 Melns Portatīvais dators 39,6 cm (15.6\") 1920 x 1080 pikseļi 10th gen Intel® Core™ i7 16 GB...\n            ",
+    "price": "\n                1179 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 5400 Melns Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i5 8 GB DDR4-SDRAM...\n            ",
+    "price": "\n                939 €\n\n            "
+  },
+  {
+    "title": "\n                TOSHIBA Portege A30-E-161 CPU i5-8250U 1600 MHz 13.3\n            ",
+    "price": "\n                909 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkBook 13s Pelēks Portatīvais dators 33,8 cm (13.3\") 1920 x 1080 pikseļi 10th gen Intel® Core™ i5 8 GB...\n            ",
+    "price": "\n                839 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Vostro 3590 CPU i3-10110U 2100 MHz 15.6\n            ",
+    "price": "\n                598 €\n\n            "
+  },
+  {
+    "title": "\n                Asus Laptop X571GT-BN387T Star Black, 15.6\", 512GB SSD, 1TB HDD, 8GB RAM, Intel i5-9300H, Intel UHD 630, NVIDIA...\n            ",
+    "price": "\n                1010 €\n\n            "
+  },
+  {
+    "title": "\n                Dell Inspiron 15 3593, 15.6\", 512GB SSD, 8GB RAM, Intel i7-1065G7, Intel Iris Plus, ENG, Win 10 Home (273282312)\n            ",
+    "price": "\n                879 €\n\n            "
+  },
+  {
+    "title": "\n                Apple MacBook Pro Retina with Touch Bar Silver, 16\", 512GB SSD, 16GB RAM, Intel i7, AMD Radeon Pro 5300M, ENG,...\n            ",
+    "price": "\n                2579 €\n\n            "
+  },
+  {
+    "title": "\n                Dell Vostro 3590, 15.6\", 256GB SSD, 8GB RAM, Intel i7-10510U, AMD Radeon 610, ENG, Win 10 Pro (N2068BVN3590EMEA01_2005_pro)\n            ",
+    "price": "\n                849 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad P53s Melns Mobila darbstacija 39,6 cm (15.6\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i7 16 GB...\n            ",
+    "price": "\n                1999 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad X1 Extreme Melns Portatīvais dators 39,6 cm (15.6\") 3840 x 2160 pikseļi 9th gen Intel® Core™ i7...\n            ",
+    "price": "\n                3339 €\n\n            "
+  },
+  {
+    "title": "\n                HP ProBook 640 G5 Sudrabs Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i5 16 GB DDR4-SDRAM...\n            ",
+    "price": "\n                1249 €\n\n            "
+  },
+  {
+    "title": "\n                ASUS ZenBook Series UX434FLC-A5177T CPU i7-10510U 1800 MHz 14\n            ",
+    "price": "\n                1243 €\n\n            "
+  },
+  {
+    "title": "\n                ASUS ZenBook Series UX433FAC-A5207T CPU i5-10210U 1600 MHz 14\n            ",
+    "price": "\n                826 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Vostro 5490 CPU i7-10510U 1800 MHz 14\n            ",
+    "price": "\n                1090 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Vostro 3580 CPU i3-8145U 2100 MHz 15.6\n            ",
+    "price": "\n                481 €\n\n            "
+  },
+  {
+    "title": "\n                HP EliteBook 840 G6 Sudrabs Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i7 16 GB...\n            ",
+    "price": "\n                1779 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad P43s Melns Mobila darbstacija 35,6 cm (14\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i7 16 GB DDR4-SDRAM...\n            ",
+    "price": "\n                2099 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad X1 Extreme Melns Portatīvais dators 39,6 cm (15.6\") 1920 x 1080 pikseļi 9th gen Intel® Core™ i7...\n            ",
+    "price": "\n                2769 €\n\n            "
+  },
+  {
+    "title": "\n                Microsoft Surface Laptop 3 Melns Portatīvais dators 34,3 cm (13.5\") 2256 x 1504 pikseļi Skārienjūtīgais ekrāns...\n            ",
+    "price": "\n                1491 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad T490 Melns Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i5 8 GB DDR4-SDRAM...\n            ",
+    "price": "\n                1679 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad P43s Melns Mobila darbstacija 35,6 cm (14\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i7 32 GB DDR4-SDRAM...\n            ",
+    "price": "\n                2529 €\n\n            "
+  },
+  {
+    "title": "\n                HP EliteBook x360 1030 G4 Sudrabs Hibrīds (divi vienā) 33,8 cm (13.3\") 1920 x 1080 pikseļi Skārienjūtīgais ekrāns...\n            ",
+    "price": "\n                2099 €\n\n            "
+  },
+  {
+    "title": "\n                HP EliteBook 840 G6 Sudrabs Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i5 8 GB DDR4-SDRAM...\n            ",
+    "price": "\n                1539 €\n\n            "
+  },
+  {
+    "title": "\n                HP ZBook 15 G6 Sudrabs Mobila darbstacija 39,6 cm (15.6\") 1920 x 1080 pikseļi 9th gen Intel® Core™ i7 32 GB DDR4-SDRAM...\n            ",
+    "price": "\n                3549 €\n\n            "
+  },
+  {
+    "title": "\n                HP ProBook 445R G6, 14\", 256GB SSD, 8GB RAM, AMD Ryzen 3 3200U, AMD Radeon Vega 3, ENG, Win 10 Pro (7DD97EA#B1R)\n            ",
+    "price": "\n                719 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 5300 Melns Hibrīds (divi vienā) 33,8 cm (13.3\") 1920 x 1080 pikseļi Skārienjūtīgais ekrāns 8th gen...\n            ",
+    "price": "\n                1739 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 5400 Melns Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i5 16 GB DDR4-SDRAM...\n            ",
+    "price": "\n                1199 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad P53 15.6 FHD i7-9750H\n            ",
+    "price": "\n                2569 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad X390 Melns Portatīvais dators 33,8 cm (13.3\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i7 16 GB...\n            ",
+    "price": "\n                1799 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad X1 Yoga Pelēks Hibrīds (divi vienā) 35,6 cm (14\") 3840 x 2160 pikseļi Skārienjūtīgais ekrāns 8th...\n            ",
+    "price": "\n                3039 €\n\n            "
+  },
+  {
+    "title": "\n                HP EliteBook x360 830 G6 Sudrabs Hibrīds (divi vienā) 33,8 cm (13.3\") 1920 x 1080 pikseļi Skārienjūtīgais ekrāns...\n            ",
+    "price": "\n                2009 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad X1 Carbon Melns Portatīvais dators 35,6 cm (14\") 1920 x 1080 pikseļi Skārienjūtīgais ekrāns 8th...\n            ",
+    "price": "\n                2499 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad E595 Melns Portatīvais dators 39,6 cm (15.6\") 1920 x 1080 pikseļi AMD Ryzen 5 16 GB DDR4-SDRAM...\n            ",
+    "price": "\n                799 €\n\n            "
+  },
+  {
+    "title": "\n                HP ProBook 455R G6 Sudrabs Portatīvais dators 39,6 cm (15.6\") 1920 x 1080 pikseļi AMD Ryzen 5 8 GB DDR4-SDRAM 256...\n            ",
+    "price": "\n                779 €\n\n            "
+  },
+  {
+    "title": "\n                HP ProBook 450 G6 Sudrabs Portatīvais dators 39,6 cm (15.6\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i7 16 GB...\n            ",
+    "price": "\n                1119 €\n\n            "
+  },
+  {
+    "title": "\n                HP EliteBook 850 G6, 15.6\", 256GB SSD, 8GB RAM, Intel i5-8265U, ENG, Win 10 Pro (6XD79EA#B1R)\n            ",
+    "price": "\n                1299 €\n\n            "
+  },
+  {
+    "title": "\n                HP EliteBook 840 G6, 14\", 256GB SSD, 8GB RAM, Intel i5-8265U, Intel UHD 620, ENG, Win 10 Pro (6XD76EA#B1R)\n            ",
+    "price": "\n                1289 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 5300 Melns Portatīvais dators 33,8 cm (13.3\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i5 8 GB DDR4-SDRAM...\n            ",
+    "price": "\n                1009 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad L590 Melns Portatīvais dators 39,6 cm (15.6\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i5 8 GB...\n            ",
+    "price": "\n                939 €\n\n            "
+  },
+  {
+    "title": "\n                HP ProBook 640 G5, 14\", 256GB SSD, 8GB RAM, Intel i5-8265U, Intel UHD 620, ENG, Win 10 Pro (6XD99EA#B1R)\n            ",
+    "price": "\n                1099 €\n\n            "
+  },
+  {
+    "title": "\n                Microsoft Surface Book 2 Sudrabs Hibrīds (divi vienā) 34,3 cm (13.5\") 3000 x 2000 pikseļi Skārienjūtīgais ekrāns...\n            ",
+    "price": "\n                2248 €\n\n            "
+  },
+  {
+    "title": "\n                DELL Latitude 5300 Melns Portatīvais dators 33,8 cm (13.3\") 1920 x 1080 pikseļi 8th gen Intel® Core™ i7 16 GB DDR4-SDRAM...\n            ",
+    "price": "\n                1469 €\n\n            "
+  },
+  {
+    "title": "\n                Portatīvais dators DELL Latitude 7400 8W5Y2, 14\" Full HD, i7-8665U, 16GB RAM, 512GB SSD, Windows 10 Pro, melns\n            ",
+    "price": "\n                1709 €\n\n            "
+  },
+  {
+    "title": "\n                HP ProBook 430 G6 Sudrabs Portatīvais dators 33,8 cm (13.3\") 8th gen Intel® Core™ i5 8 GB DDR4-SDRAM 256 GB SSD...\n            ",
+    "price": "\n                919 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo IdeaPad 330S-15IKB, 15.6\",  SSD 256GB, RAM 8GB, Intel i5, NVIDIA GeForce 1050, ENG, Windows 10 Home\n            ",
+    "price": "\n                869 €\n\n            "
+  },
+  {
+    "title": "\n                HP ProBook 450 G6, 15.6\", 256GB SSD, 8GB RAM, Intel i5-8265U, Intel UHD 620, Win 10 Pro (5PP67EA#B1R)\n            ",
+    "price": "\n                929 €\n\n            "
+  },
+  {
+    "title": "\n                Microsoft Surface Book 2, 15\", 1TB SSD, 16GB RAM, Intel i7-8650U, NVIDIA GeForce GTX 1060, Touchscreen, ENG, Win...\n            ",
+    "price": "\n                3811 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad A285, 12.5\", 256GB SSD, 8GB RAM, AMD Ryzen 5 Pro 2500U, AMD Radeon Vega 8, Nordic tastatūra, Win...\n            ",
+    "price": "\n                1069 €\n\n            "
+  },
+  {
+    "title": "\n                Lenovo ThinkPad A285, 12.5\", 256GB SSD, 8GB RAM, AMD Ryzen 5 Pro 2500U, AMD Radeon Vega 8, ENG, Win 10 Pro (20MW000JMH)\n            ",
+    "price": "\n                1069 €\n\n            "
+  },
+  {
+    "title": "\n                Dell Latitude 5500 Black, 15.6\", 512GB SSD, 8GB RAM, Intel i5-8365U, Intel UHD, ENG, Win 10 Pro (N019L550015EMEA)\n            ",
+    "price": "\n                1159 €\n\n            "
   }
 ]

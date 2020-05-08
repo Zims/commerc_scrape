@@ -1,0 +1,96 @@
+[
+  {
+    "name": "Lenovo IdeaPad D330-10IGM Intel Celeron N4000 (81H3000EMH)",
+    "price": "234.00"
+  },
+  {
+    "name": "Notebook|HP|250 G7|CPU N4000|1100 MHz|15.6\"|1366x768|RAM 4GB|DDR4|2400 MHz|SSD 128GB|In...",
+    "price": "309.00"
+  },
+  {
+    "name": "NB IPS145-15IGM PMD-N5000 15\"/4/128GB DOS 81MX0055EU LENOVO",
+    "price": "355.99"
+  },
+  { "name": "LENOVO V15-IKB i3-8130U 8/256GB", "price": "446.01" },
+  {
+    "name": "NB 255 G7 R5-2500U 15\" 8GB/256GB DOS 7DF20EU HP",
+    "price": "514.00"
+  },
+  {
+    "name": "Dell Vostro 3490 Intel Core i5-10210U (N1107VN3490EMEA01_UBU)",
+    "price": "537.00"
+  },
+  {
+    "name": "Lenovo V130-14IKB Intel Core i3-7020U (81HQ00MMMH)",
+    "price": "548.00"
+  },
+  {
+    "name": "Dell Vostro 14 5490 Intel Core i3-10110U (5490-279601)",
+    "price": "558.00"
+  },
+  {
+    "name": "NB 115-DB1035NW R5-3500U 15\"/8/512GB 9QZ20EA HP",
+    "price": "558.00"
+  },
+  {
+    "name": "Dell Vostro 14 5490 Intel Core i3-10110U/4GB/128GB/UHD/Ubuntu/ENG kbd/3Y Basic OnSite",
+    "price": "561.00"
+  },
+  {
+    "name": "NB S145-15IIL CI5-1035G1 15\"/8/256GB 81W80070PB LENOVO",
+    "price": "562.00"
+  },
+  {
+    "name": "Acer Aspire 5 A514-53-390N Intel Core i3-1005G1 (NX.HUSEL.001)",
+    "price": "563.00"
+  },
+  {
+    "name": "Notebook|DELL|Vostro|3591|CPU i5-1035G1|1000 MHz|15.6\"|1920x1080|RAM 8GB|DDR4|2666 MHz|...",
+    "price": "569.99"
+  },
+  {
+    "name": "Dell Inspiron 15 3593 Intel Core i5-1035G1 (3593-4994)",
+    "price": "571.00"
+  },
+  {
+    "name": "Acer Aspire A515-54G-33P3 Intel Core i3-8145U (NX.HDGEL.015)",
+    "price": "583.00"
+  },
+  {
+    "name": "Asus VivoBook X403FA-EB139T Intel Core i3-8145U (90NB0LP2-M02010)",
+    "price": "591.00"
+  },
+  {
+    "name": "Dell Vostro 3590 Intel Core i5-10210U (N2072BVN3590EMEA01_2005_UBU)",
+    "price": "593.00"
+  },
+  {
+    "name": "Lenovo Essential V14-IIL 14 FHD i5-1035G1/8GB/256GB/Intel UHD/WIN10 Pro/ENG kbd/Grey/1Y...",
+    "price": "597.00"
+  },
+  {
+    "name": "Lenovo Essential V14-IIL Intel Core i5-1035G1 (82C40019MX)",
+    "price": "600.00"
+  },
+  {
+    "name": "Asus VivoBook X510UA Intel Core i5-7200U (X510UA-EJ1406T)",
+    "price": "605.00"
+  },
+  {
+    "name": "Dell Inspiron 14 5490 Intel Core i3-10110U (273256943)",
+    "price": "608.00"
+  },
+  {
+    "name": "Notebook|ACER|Swift|SF314-57-39B4|CPU i3-1005G1|1200 MHz|14\"|1920x1080|RAM 8GB|DDR4|SSD...",
+    "price": "612.01"
+  },
+  {
+    "name": "Lenovo ThinkBook 14 IIL Intel Core i5-1035G1 (20SL0049MH)",
+    "price": "618.00"
+  },
+  {
+    "name": "Notebook|DELL|Vostro|3491|CPU i5-1035G1|1000 MHz|14\"|1920x1080|RAM 8GB|DDR4|2666 MHz|SS...",
+    "price": "618.00"
+  },
+  { "name": null, "price": null }
+]
