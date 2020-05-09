@@ -7,15 +7,15 @@ class TwentyfSpider(scrapy.Spider):
     name = 'twentyf'
     allowed_domains = ['24.lv']
     start_urls = [
-        'https://24.lv/datoru-un-biroja-tehnika-en/portatvie-datori-un-piederumi/portatvie-datori/page-10/']
+        'https://24.lv/datoru-un-biroja-tehnika-en/portatvie-datori-un-piederumi/portatvie-datori/']
 
     def parse(self, response):
-        for product in response.xpath("//div[@class='col-tile']"):
+        for product in response.xpath("//div[@class='col-tile']/div[@class='ty-grid-list__item  ty-quick-view-button__wrapper']"):
             yield{
                 'name': product.xpath(".//a[@class='product-title']/text()").get(),
                 'price': product.xpath('.//*[@class="ty-price-num"][2]/text()').get()
             }
-            url = response.xpath("(//div[@class='ty-pagination']/a/@href)").get()
+            url = response.xpath("//*[@id='pagination_blockY']/a[2]/@href").get()
             # url = response.urljoin(next_page_partial_url)
 
             print(f'Returned url: {url}')
