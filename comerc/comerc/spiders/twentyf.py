@@ -15,9 +15,8 @@ class TwentyfSpider(scrapy.Spider):
                 'name': product.xpath(".//a[@class='product-title']/text()").get(),
                 'price': product.xpath('.//*[@class="ty-price-num"][2]/text()').get()
             }
-            url = response.xpath("//*[@id='pagination_blockY']/a[2]/@href").get()
-            # url = response.urljoin(next_page_partial_url)
 
+            url = response.xpath("//*[@id='pagination_blockY']/a[2]/@href").get()
             print(f'Returned url: {url}')
             yield scrapy.Request(url, callback=self.parse)
             # # yield{
