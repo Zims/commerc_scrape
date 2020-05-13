@@ -13,7 +13,6 @@ class A1aSpider(scrapy.Spider):
             yield{
                 'name': product.xpath(".//a[@class='new-product-name']/text()").get(),
                 'price': product.xpath(".//span[@class='item-price']/span[1]/text()").get(),
-                # 'link': response.urljoin(product.xpath("//a[@class='new-product-image']/@href").get())
             }
             part_url = response.xpath("//a[@class='next ']/@href").get()
             url = response.urljoin(part_url)
