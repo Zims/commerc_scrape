@@ -90,3 +90,5 @@ ROBOTSTXT_OBEY = True
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 FEED_EXPORT_ENCODING = 'utf-8'
 CSV_DELIMITER = "___" # For tab
+ROBOTSTXT_OBEY = False
+
