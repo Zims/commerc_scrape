@@ -9,21 +9,13 @@ class EngineerSpider(scrapy.Spider):
 
 
     def parse(self, response):
-
         urls = response.css("td.name.selected-row > a::attr(href)").extract()
-        print(f'I got theese urls______________________________________________________________________________:{urls}')
+        print(urls)
         for url in urls:
-            yield print(url) 
-            scrapy.Request(url=urls, callback=self.parse_details)
-            # yield {
-                # 'name': item.xpath(".//a/text()").get(),
-                # 'Link': item.xpath(".//a/@href").get()
-            # }
-        # pass
-        # print(response.body)
-        # //tr[contains(@class, 'result-item')]
+            yield scrapy.Request(url=url, callback=self.parse_details)
+
     def parse_details(self, response):
         yield{
-            'name': response.xpath("//div[@id='supplier-info']/h1[@class='info-section supplier-name no-icons basic-listing']/text()").get(),
-            'web': response.xpath("//a[@class='icon-accompanying-link blue-arrow-left']/@href").get()
+            'name': response.css("#supplier-info > h1::text").extract_first(),
+            'website': response.css("#supplier-contact-info > div:nth-child(2) > a::attr(href)").extract_first()
         }
