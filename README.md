@@ -1,5 +1,6 @@
 <h1>commerc_scrape</h1>
-ongoing...
+Development is ongoing.<br>
+I pick even harder to scrape sites and scrape them for more data<br><br>
 
 commerc_scrape is a personal project to use my knowledge in scraping the web. It was made using scrapy, but during development I looked at other scraping methods.<br> 
 I took 2 e-commerce sites at random and chose a category to scrape.
