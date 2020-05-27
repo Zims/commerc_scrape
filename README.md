@@ -13,3 +13,18 @@ Added scraping the details page of each item.
 <br> 4. Designig the output files and structurung the data so it is easy to read/work with.
 <br> 5. Exporting data to external files. In different formats
 
+<h2>Usage</h2>
+<br>Clone the project
+<br>Open folder in VS code
+<br>Run command in terminal: 
+<br>pip install pipenv
+<br>pipenv shell
+<br>pipenv install
+<br>This installs pipenv virtual enviroment. Activates it and install all modules I did use in this project.
+<br>To run the scraping spiders cd into the comerc folder which contains the output files csv, json and the cfg file.
+<br>In terminal type:
+<br>pipenv run scrapy crawl *** (*** - substitute for a spider name without the .py at the end. Example xnet)
+<br>This will only print the result to terminal. Better is to output it to a file.
+<br>pipenv run scrapy crawl *** -o csv (csv can change to json or xml)
+<br>If spider doesn't run check you are in the right directory. Type "ls" in terminal - lists all files. Search if the cfg is in there.
+<br>
