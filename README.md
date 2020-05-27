@@ -27,6 +27,7 @@ Added scraping the details page of each item.
 <br>In terminal type:
 <br> <pre>pipenv run scrapy crawl ***  </pre><br(*** - substitute for a spider name without the .py at the end. Example xnet)
 <br>This will only print the result to terminal. Better is to output it to a file.
-<br>pipenv run scrapy crawl *** -o csv (csv can change to json or xml)
-<br>If spider doesn't run check you are in the right directory. Type "ls" in terminal - lists all files. Search if the cfg is in there.
+<br> <pre>pipenv run scrapy crawl *** -o csv  </pre><br>(csv can change to json or xml)
+<br>If spider doesn't run check you are in the right directory. 
+<br>Type  <pre>ls </pre> in terminal - lists all files. Search if the cfg is in there.
 <br>
