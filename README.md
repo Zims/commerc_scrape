@@ -14,6 +14,7 @@ Added scraping the details page of each item.
 <br> 5. Exporting data to external files. In different formats
 
 <h2>Usage</h2>
+<br>Install python, VS code+extensions
 <br>Clone the project
 <br>Open folder in VS code
 <br>Run command in terminal: 
@@ -31,3 +32,9 @@ Added scraping the details page of each item.
 <br>If spider doesn't run check you are in the right directory. 
 <br>Type  <pre>ls </pre> in terminal - lists all files. Search if the cfg is in there.
 <br> The project works without a virtal enviroment too.
+<br><br>
+<h2>Issues</h2>
+<br>I had a proble on a new windows system while installing scrapy. 
+<br>I needed to install Visual Studio(not VSCode!!!) to get some dependancies.
+<br><br><br><br>
+That's it no other issues
