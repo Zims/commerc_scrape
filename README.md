@@ -30,4 +30,4 @@ Added scraping the details page of each item.
 <br> <pre>pipenv run scrapy crawl *** -o csv  </pre><br>(csv can change to json or xml)
 <br>If spider doesn't run check you are in the right directory. 
 <br>Type  <pre>ls </pre> in terminal - lists all files. Search if the cfg is in there.
-<br>
+<br> The project works without a virtal enviroment too.
