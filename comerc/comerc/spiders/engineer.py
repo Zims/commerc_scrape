@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import scrapy
-import time
-
+# import time
+# the site is blocking me so I need to chose a new one
 
 class EngineerSpider(scrapy.Spider):
     name = 'engineer'
