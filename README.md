@@ -34,7 +34,7 @@ Added scraping the details page of each item.
 <br> The project works without a virtal enviroment too.
 <br><br>
 <h2>Issues</h2>
-<br>I had a proble on a new windows system while installing scrapy. 
+<br>I had a problem on a new windows system while installing scrapy. 
 <br>I needed to install Visual Studio(not VSCode!!!) to get some dependancies.
 <br><br><br><br>
 That's it no other issues
