@@ -8,7 +8,7 @@ After I created a custom spider for each site it was able to scrape trough the c
 Added scraping the details page of each item.
 <h2>What I learned</h2>
 <br> 1. Scraping basics and the tool comparison
-<br> 2. Gained a deeper understanding of web site build elements an the ability to selec them using Xpath and css selectors.
+<br> 2. Gained a deeper understanding of web site build elements an the ability to select them using Xpath and css selectors.
 <br> 3. Ability to navigate multiple pages of a site and scrape the content of each.
 <br> 4. Designig the output files and structuring the data so it is easy to read/work with.
 <br> 5. Exporting data to external files. In different formats
